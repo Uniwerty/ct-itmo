@@ -1,0 +1,7 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/emptyInput.txt"
+The summary statistics
+	Sentences number: 0. (0 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 0. (0 unique).

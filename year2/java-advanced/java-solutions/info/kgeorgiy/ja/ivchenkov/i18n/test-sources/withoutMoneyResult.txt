@@ -1,0 +1,31 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/withoutMoney.txt"
+The summary statistics
+	Sentences number: 3. (3 unique).
+	Words number: 11. (7 unique).
+	Numbers number: 1. (1 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 1. (1 unique).
+The sentence statistics
+	Sentences number: 3. (3 unique).
+	The minimum sentence: "This is another sentence with 777.".
+	The maximum sentence: "Today is 5/26/23.".
+	The minimum length of a sentence: 17 ("Today is 5/26/23.").
+	The maximum length of a sentence: 34 ("This is another sentence with 777.").
+	The average length of a sentence: 23.333.
+The word statistics
+	Words number: 11. (7 unique).
+	The minimum word: "a".
+	The maximum word: "with".
+	The minimum length of a word: 1 ("a").
+	The maximum length of a word: 8 ("sentence").
+	The average length of a word: 4.273.
+The number statistics
+	Numbers number: 1. (1 unique).
+	The minimum number: 777.
+	The maximum number: 777.
+	The average number: 777.
+The date statistics
+	Dates number: 1. (1 unique).
+	The minimum date: May 26, 2023.
+	The maximum date: May 26, 2023.
+	The average date: May 26, 2023.

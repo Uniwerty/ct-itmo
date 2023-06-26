@@ -1,0 +1,38 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/differentDatesGE.txt"
+The summary statistics
+	Sentences number: 1. (1 unique).
+	Words number: 1. (1 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 4. (1 unique).
+The sentence statistics
+	Sentences number: 1. (1 unique).
+	The minimum sentence: "2023-05-26.
+2023 May 26.
+2023 May 26.
+2023 May 26, Fri.".
+	The maximum sentence: "2023-05-26.
+2023 May 26.
+2023 May 26.
+2023 May 26, Fri.".
+	The minimum length of a sentence: 55 ("2023-05-26.
+2023 May 26.
+2023 May 26.
+2023 May 26, Fri.").
+	The maximum length of a sentence: 55 ("2023-05-26.
+2023 May 26.
+2023 May 26.
+2023 May 26, Fri.").
+	The average length of a sentence: 55.
+The word statistics
+	Words number: 1. (1 unique).
+	The minimum word: "Fri".
+	The maximum word: "Fri".
+	The minimum length of a word: 3 ("Fri").
+	The maximum length of a word: 3 ("Fri").
+	The average length of a word: 3.
+The date statistics
+	Dates number: 4. (1 unique).
+	The minimum date: May 26, 2023.
+	The maximum date: May 26, 2023.
+	The average date: May 26, 2023.

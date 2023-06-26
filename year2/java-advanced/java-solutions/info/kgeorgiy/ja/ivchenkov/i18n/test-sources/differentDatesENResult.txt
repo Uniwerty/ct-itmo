@@ -1,0 +1,19 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/differentDatesEN.txt"
+The summary statistics
+	Sentences number: 4. (3 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 4. (1 unique).
+The sentence statistics
+	Sentences number: 4. (3 unique).
+	The minimum sentence: "5/26/23.".
+	The maximum sentence: "May 26, 2023.".
+	The minimum length of a sentence: 8 ("5/26/23.").
+	The maximum length of a sentence: 21 ("Friday, May 26, 2023.").
+	The average length of a sentence: 13.75.
+The date statistics
+	Dates number: 4. (1 unique).
+	The minimum date: May 26, 2023.
+	The maximum date: May 26, 2023.
+	The average date: May 26, 2023.

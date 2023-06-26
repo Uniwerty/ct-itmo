@@ -1,0 +1,36 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/englishTextToEN.txt"
+The summary statistics
+	Sentences number: 7. (7 unique).
+	Words number: 29. (22 unique).
+	Numbers number: 2. (2 unique).
+	Money amounts number: 2. (2 unique).
+	Dates number: 2. (2 unique).
+The sentence statistics
+	Sentences number: 7. (7 unique).
+	The minimum sentence: "And yesterday was May 25, 2023.".
+	The maximum sentence: "Today is 5/26/23.".
+	The minimum length of a sentence: 12 ("Is it great?").
+	The maximum length of a sentence: 45 ("It has more than 2 words and less than 1,000.").
+	The average length of a sentence: 25.429.
+The word statistics
+	Words number: 29. (22 unique).
+	The minimum word: "and".
+	The maximum word: "yesterday".
+	The minimum length of a word: 1 ("I").
+	The maximum length of a word: 9 ("yesterday").
+	The average length of a word: 3.655.
+The number statistics
+	Numbers number: 2. (2 unique).
+	The minimum number: 2.
+	The maximum number: 1,000.
+	The average number: 501.
+The money statistics
+	Money amounts number: 2. (2 unique).
+	The minimum money amount: $20.00.
+	The maximum money amount: $9,000.00.
+	The average money amount: $4,510.00.
+The date statistics
+	Dates number: 2. (2 unique).
+	The minimum date: May 25, 2023.
+	The maximum date: May 26, 2023.
+	The average date: May 25, 2023.

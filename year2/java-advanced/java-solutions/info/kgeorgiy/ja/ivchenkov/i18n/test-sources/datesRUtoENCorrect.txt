@@ -1,0 +1,31 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/datesRUtoEN.txt"
+The summary statistics
+	Sentences number: 1. (1 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 4. (2 unique).
+The sentence statistics
+	Sentences number: 1. (1 unique).
+	The minimum sentence: "26.05.2023.
+9 сент. 2001 г..
+26 мая 2023 г..
+воскресенье, 9 сентября 2001 г..".
+	The maximum sentence: "26.05.2023.
+9 сент. 2001 г..
+26 мая 2023 г..
+воскресенье, 9 сентября 2001 г..".
+	The minimum length of a sentence: 77 ("26.05.2023.
+9 сент. 2001 г..
+26 мая 2023 г..
+воскресенье, 9 сентября 2001 г..").
+	The maximum length of a sentence: 77 ("26.05.2023.
+9 сент. 2001 г..
+26 мая 2023 г..
+воскресенье, 9 сентября 2001 г..").
+	The average length of a sentence: 77.
+The date statistics
+	Dates number: 4. (2 unique).
+	The minimum date: Sep 9, 2001.
+	The maximum date: May 26, 2023.
+	The average date: Jul 17, 2012.

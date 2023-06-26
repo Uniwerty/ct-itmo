@@ -1,0 +1,36 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/russianTextToEN.txt"
+The summary statistics
+	Sentences number: 6. (6 unique).
+	Words number: 24. (21 unique).
+	Numbers number: 4. (4 unique).
+	Money amounts number: 2. (2 unique).
+	Dates number: 1. (1 unique).
+The sentence statistics
+	Sentences number: 6. (6 unique).
+	The minimum sentence: "А вчера было 25.05.23.".
+	The maximum sentence: "Это мой текст...".
+	The minimum length of a sentence: 16 ("Это мой текст...").
+	The maximum length of a sentence: 40 ("У меня больше 50 ₽, но меньше 999 999 ₽.").
+	The average length of a sentence: 27.667.
+The word statistics
+	Words number: 24. (21 unique).
+	The minimum word: "А".
+	The maximum word: "Это".
+	The minimum length of a word: 1 ("А").
+	The maximum length of a word: 12 ("Здравствуйте").
+	The average length of a word: 4.083.
+The number statistics
+	Numbers number: 4. (4 unique).
+	The minimum number: 2.
+	The maximum number: 2,023.
+	The average number: 762.75.
+The money statistics
+	Money amounts number: 2. (2 unique).
+	The minimum money amount: $50.00.
+	The maximum money amount: $999,999.00.
+	The average money amount: $500,024.50.
+The date statistics
+	Dates number: 1. (1 unique).
+	The minimum date: May 25, 2023.
+	The maximum date: May 25, 2023.
+	The average date: May 25, 2023.

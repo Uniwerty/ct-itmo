@@ -1,0 +1,19 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/datesENtoEN.txt"
+The summary statistics
+	Sentences number: 4. (4 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 4. (2 unique).
+The sentence statistics
+	Sentences number: 4. (4 unique).
+	The minimum sentence: "5/26/23.".
+	The maximum sentence: "Sunday, September 9, 2001.".
+	The minimum length of a sentence: 8 ("5/26/23.").
+	The maximum length of a sentence: 26 ("Sunday, September 9, 2001.").
+	The average length of a sentence: 14.75.
+The date statistics
+	Dates number: 4. (2 unique).
+	The minimum date: Sep 9, 2001.
+	The maximum date: May 26, 2023.
+	The average date: Jul 17, 2012.

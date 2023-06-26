@@ -1,0 +1,19 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/moneyRUtoEN.txt"
+The summary statistics
+	Sentences number: 1. (1 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 0. (0 unique).
+	Money amounts number: 5. (5 unique).
+	Dates number: 0. (0 unique).
+The sentence statistics
+	Sentences number: 1. (1 unique).
+	The minimum sentence: "100,00 ₽ 0,99 ₽ -1,23 ₽ 1 500,00 ₽ 2 000 000,48 ₽.".
+	The maximum sentence: "100,00 ₽ 0,99 ₽ -1,23 ₽ 1 500,00 ₽ 2 000 000,48 ₽.".
+	The minimum length of a sentence: 50 ("100,00 ₽ 0,99 ₽ -1,23 ₽ 1 500,00 ₽ 2 000 000,48 ₽.").
+	The maximum length of a sentence: 50 ("100,00 ₽ 0,99 ₽ -1,23 ₽ 1 500,00 ₽ 2 000 000,48 ₽.").
+	The average length of a sentence: 50.
+The money statistics
+	Money amounts number: 5. (5 unique).
+	The minimum money amount: -$1.23.
+	The maximum money amount: $2,000,000.48.
+	The average money amount: $400,320.05.

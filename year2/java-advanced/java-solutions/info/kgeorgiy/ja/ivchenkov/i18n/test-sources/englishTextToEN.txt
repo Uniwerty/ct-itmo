@@ -1,0 +1,4 @@
+Hello, world! This is my text...
+It has more than 2 words and less than 1,000.
+I have more than $20 and less than $9,000.
+Today is 5/26/23. And yesterday was May 25, 2023. Is it great?

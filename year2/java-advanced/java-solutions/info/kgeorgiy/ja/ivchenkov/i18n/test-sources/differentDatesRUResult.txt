@@ -1,0 +1,43 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/differentDatesRU.txt"
+The summary statistics
+	Sentences number: 1. (1 unique).
+	Words number: 7. (3 unique).
+	Numbers number: 6. (2 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 1. (1 unique).
+The sentence statistics
+	Sentences number: 1. (1 unique).
+	The minimum sentence: "26.05.2023.
+26 мая 2023 г..
+26 мая 2023 г..
+пятница, 26 мая 2023 г..".
+	The maximum sentence: "26.05.2023.
+26 мая 2023 г..
+26 мая 2023 г..
+пятница, 26 мая 2023 г..".
+	The minimum length of a sentence: 68 ("26.05.2023.
+26 мая 2023 г..
+26 мая 2023 г..
+пятница, 26 мая 2023 г..").
+	The maximum length of a sentence: 68 ("26.05.2023.
+26 мая 2023 г..
+26 мая 2023 г..
+пятница, 26 мая 2023 г..").
+	The average length of a sentence: 68.
+The word statistics
+	Words number: 7. (3 unique).
+	The minimum word: "г".
+	The maximum word: "пятница".
+	The minimum length of a word: 1 ("г").
+	The maximum length of a word: 7 ("пятница").
+	The average length of a word: 2.714.
+The number statistics
+	Numbers number: 6. (2 unique).
+	The minimum number: 26.
+	The maximum number: 2,023.
+	The average number: 1,024.5.
+The date statistics
+	Dates number: 1. (1 unique).
+	The minimum date: May 26, 2023.
+	The maximum date: May 26, 2023.
+	The average date: May 26, 2023.

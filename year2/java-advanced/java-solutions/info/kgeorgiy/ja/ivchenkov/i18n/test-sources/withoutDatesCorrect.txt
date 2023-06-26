@@ -1,0 +1,31 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/withoutDates.txt"
+The summary statistics
+	Sentences number: 3. (3 unique).
+	Words number: 14. (6 unique).
+	Numbers number: 1. (1 unique).
+	Money amounts number: 1. (1 unique).
+	Dates number: 0. (0 unique).
+The sentence statistics
+	Sentences number: 3. (3 unique).
+	The minimum sentence: "This is another sentence with $500.".
+	The maximum sentence: "This is a sentence.".
+	The minimum length of a sentence: 19 ("This is a sentence.").
+	The maximum length of a sentence: 35 ("This is another sentence with $500.").
+	The average length of a sentence: 29.333.
+The word statistics
+	Words number: 14. (6 unique).
+	The minimum word: "a".
+	The maximum word: "with".
+	The minimum length of a word: 1 ("a").
+	The maximum length of a word: 8 ("sentence").
+	The average length of a word: 4.643.
+The number statistics
+	Numbers number: 1. (1 unique).
+	The minimum number: 777.
+	The maximum number: 777.
+	The average number: 777.
+The money statistics
+	Money amounts number: 1. (1 unique).
+	The minimum money amount: $500.00.
+	The maximum money amount: $500.00.
+	The average money amount: $500.00.

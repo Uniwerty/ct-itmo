@@ -1,0 +1,19 @@
+The analyzed file: "solutions/java-solutions/info/kgeorgiy/ja/ivchenkov/text/test-sources/numbersGEtoEN.txt"
+The summary statistics
+	Sentences number: 1. (1 unique).
+	Words number: 0. (0 unique).
+	Numbers number: 5. (5 unique).
+	Money amounts number: 0. (0 unique).
+	Dates number: 0. (0 unique).
+The sentence statistics
+	Sentences number: 1. (1 unique).
+	The minimum sentence: "100 0.99 -1.23 1,500 2,000,000.48.".
+	The maximum sentence: "100 0.99 -1.23 1,500 2,000,000.48.".
+	The minimum length of a sentence: 34 ("100 0.99 -1.23 1,500 2,000,000.48.").
+	The maximum length of a sentence: 34 ("100 0.99 -1.23 1,500 2,000,000.48.").
+	The average length of a sentence: 34.
+The number statistics
+	Numbers number: 5. (5 unique).
+	The minimum number: -1.23.
+	The maximum number: 2,000,000.48.
+	The average number: 400,320.048.
