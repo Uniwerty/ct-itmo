@@ -1,0 +1,47 @@
+Test suite hw2-test: RUNNING...
+
+HW2.T1.tfoldr
+  Empty tree to empty list [v]
+  Singleton tree to list [v]
+  Tree to sorted list [v]
+  Tree sum [v]
+  Tree subtraction [v]
+HW2.T2.splitOn
+  Split empty list [v]
+  Split list [v]
+  Split list with separator at the end [v]
+  Split string [v]
+  Split string with separator at the end [v]
+HW2.T2.joinWith
+  Join empty lists [v]
+  Join lists [v]
+  Join lists with separator at the end [v]
+  Join strings [v]
+  Join strings with separator at the end [v]
+HW2.T3.mcat
+  Mcat nothing [v]
+  Mcat just [v]
+  Mcat both [v]
+HW2.T3.epart
+  Epart only left [v]
+  Epart ints and strings [v]
+HW2.T4.ListPlus
+  ListPlus mappend [v]
+  ListPlus associativity [v]
+HW2.T4.Inclusive
+  Only This mappend [v]
+  Only That mappend [v]
+  Both mappend [v]
+  Inclusive associativity [v]
+HW2.T4.DotString
+  Empty DotString mappend [v]
+  DotString mappend [v]
+  DotString associativity [v]
+HW2.T4.Fun
+  Fun Int -> Int mappend [v]
+  Fun [Char] -> [Char] mappend [v]
+
+Finished in 0.0133 seconds
+31 examples, 0 failures
+Test suite hw2-test: PASS
+Test suite logged to: C:\Users\ivcdi\functional-prog\homework-2-Uniwerty\hw2\dist-newstyle\build\x86_64-windows\ghc-9.2.8\hw2-0.1.0.0\t\hw2-test\test\hw2-0.1.0.0-hw2-test.log
