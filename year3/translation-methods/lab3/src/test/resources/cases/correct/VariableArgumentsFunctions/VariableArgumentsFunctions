@@ -1,0 +1,8 @@
+alpha :: Int -> Int -> Int
+alpha x y = x * y - x * x
+
+beta :: Int -> Bool -> Bool
+beta number boolean = boolean
+
+gamma :: Bool -> Bool -> Bool
+gamma A B = !(A) || A && B && B

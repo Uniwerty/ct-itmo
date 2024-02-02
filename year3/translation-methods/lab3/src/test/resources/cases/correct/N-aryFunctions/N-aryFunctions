@@ -1,0 +1,8 @@
+fun :: Int -> Int -> Int -> Int
+fun a b c = 0
+
+gun :: Bool -> Bool -> Bool -> Bool -> Bool
+gun a b c d = False
+
+hun :: Int -> Bool -> Bool
+hun a b = True

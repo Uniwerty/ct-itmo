@@ -1,0 +1,18 @@
+"[ \\t\\r\\n]+" -> skip;
+
+S (): (value:: int);
+T (): (value:: int);
+E2 (acc:: int): (value:: int);
+F (): (value:: int);
+T2 (acc:: int): (value:: int);
+
+S -> T E2(T_0.value) {S_0.value = E2_0.value;};
+E2 -> plus="\\+" T {int _cur = acc + T_0.value;} E2(_cur) {E2_0.value = E2_1.value;};
+E2 -> minus="\\-" T {int _cur = acc - T_0.value;} E2(_cur) {E2_0.value = E2_1.value;};
+E2 -> {E2_0.value = acc;} empty="";
+T -> F T2(F_0.value) {T_0.value = T2_0.value;};
+T2 -> mul="\\*" F {int _cur = acc * F_0.value;} T2(_cur) {T2_0.value = T2_1.value;};
+T2 -> div="\\/" F {int _cur = acc / F_0.value;} T2(_cur) {T2_0.value = T2_1.value;};
+T2 -> {T2_0.value = acc;} empty="";
+F -> number="\\d+" {F_0.value = Integer.parseInt(number);};
+F -> lpar="\\(" S rpar="\\)" {F_0.value = S_0.value;};

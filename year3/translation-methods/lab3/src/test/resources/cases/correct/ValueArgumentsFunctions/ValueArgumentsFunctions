@@ -1,0 +1,16 @@
+sum :: Int -> Int -> Int
+sum 0 0 = 0
+sum 0 1 = 1
+sum -1 1 = 0
+
+xor :: Bool -> Bool -> Bool
+xor False False = False
+xor False True = True
+xor True False = True
+xor True True = False
+
+mix :: Bool -> Int -> Int
+mix True 0 = 0
+mix True 1 = 1
+mix False 0 = 0
+mix False 1 = 0

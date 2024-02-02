@@ -1,0 +1,11 @@
+f::Int -> Int
+f x = -1
+
+g::Int -> Bool
+g x = True
+
+h::Bool -> Int
+h x = 0
+
+i::Bool -> Bool
+i x = False

@@ -1,0 +1,5 @@
+intFun :: Int
+intFun = 0
+
+boolFun :: Bool
+boolFun = True

@@ -1,0 +1,4 @@
+xi :: Int -> Bool -> Int -> Bool -> Bool
+xi -1 True y b = y < 0 || b
+xi x False y False = x == y
+xi x a y b = (x == y) && a || (x != y) && b || !(a) || !(b)

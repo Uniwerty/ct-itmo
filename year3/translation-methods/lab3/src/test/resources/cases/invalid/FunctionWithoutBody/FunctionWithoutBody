@@ -1,0 +1,4 @@
+fun :: Int -> Int -> Int
+
+abc :: Int
+abc = 0

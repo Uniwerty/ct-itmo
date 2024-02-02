@@ -1,0 +1,15 @@
+eta :: Int -> Int -> Int
+eta 1 1 = 1
+eta x 0 = x
+eta 0 y = 0
+eta n m = n + m
+
+zeta :: Bool -> Bool -> Bool
+zeta True True = True
+zeta first second = first && !(second)
+
+theta :: Int -> Int -> Bool
+theta 0 1 = (0 < 1)
+theta 1 0 = 1 < 0
+theta 2 2 = True
+theta f g = False || f != g

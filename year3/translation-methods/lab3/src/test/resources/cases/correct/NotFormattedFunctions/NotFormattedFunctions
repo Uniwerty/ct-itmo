@@ -1,0 +1,1 @@
+f1::Int->Int f1 1=0 f1 a=a*7 f2::Bool->Bool f2 True=False f2 a=a f3::Int->Int->Int f3 x y|x>0=1|x<0=-1|y==0=x*y-x-y

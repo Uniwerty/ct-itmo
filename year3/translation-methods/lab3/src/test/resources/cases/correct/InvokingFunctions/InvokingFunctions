@@ -1,0 +1,8 @@
+f :: Int -> Int -> Int
+f a b = a / b
+
+g :: Int -> Int -> Int
+g a b = f(a, b) * f(b, a)
+
+h :: Int -> Int -> Int
+h a b = f(a, f(a, b)) - g(g(b, a), a)

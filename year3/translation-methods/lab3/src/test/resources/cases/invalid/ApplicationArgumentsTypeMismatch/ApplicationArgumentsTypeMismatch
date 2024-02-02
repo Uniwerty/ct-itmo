@@ -1,0 +1,5 @@
+f :: Int -> Int -> Int
+f a b = a + b
+
+g :: Int -> Bool -> Int
+g a b = f(a, b)

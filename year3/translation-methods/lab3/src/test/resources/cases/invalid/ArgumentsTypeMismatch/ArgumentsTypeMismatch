@@ -1,0 +1,2 @@
+fun :: Int -> Bool -> Int
+fun 1 0 = 1

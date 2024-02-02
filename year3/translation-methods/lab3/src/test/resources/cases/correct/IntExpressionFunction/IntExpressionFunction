@@ -1,0 +1,3 @@
+mu :: Int -> Int -> Int -> Int
+mu a1 8 a3 = a3 - a1 * a3 / (8 + 1) / 1 * a1
+mu x y z = z * -(z) * z + y * y * -(y) + -(x) * x * x

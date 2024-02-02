@@ -1,0 +1,2 @@
+fun :: Int -> Int -> Bool
+fun a b = a + b

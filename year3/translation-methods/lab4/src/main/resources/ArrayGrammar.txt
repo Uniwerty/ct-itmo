@@ -1,0 +1,16 @@
+"[ \\t\\r\\n]+" -> skip;
+
+S -> var="var" name="\\w+" sep=":" C;
+C -> A;
+C -> P;
+A -> array="Array" lpar="<" T rpar=">" N;
+P -> tuple="Tuple" lpar="<" E rpar=">" N;
+E -> T E2;
+E2 -> comma="," T E2;
+E2 -> empty="";
+T -> name="\\w+" T2 N;
+T -> A;
+T2 -> lpar="<" T rpar=">";
+T2 -> empty="";
+N -> nullable="\\?";
+N -> empty="";

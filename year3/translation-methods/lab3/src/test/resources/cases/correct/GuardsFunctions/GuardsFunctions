@@ -1,0 +1,26 @@
+kappa :: Int -> Int -> Int
+kappa 0 0 = -1
+kappa x y
+    | x == y           = x * y
+    | x == y && x != 0 = x / y
+    | True             = 1000000
+
+lambda :: Bool -> Bool -> Int
+lambda True x = 2
+lambda a b | a || b = 1
+lambda a b = 15
+
+epsilon :: Int -> Bool -> Int
+epsilon u v
+    | u < 0 &&  v = u
+    | u > 0 && !(v) = 0
+epsilon 8 False = 9
+epsilon i j = i
+
+upsilon :: Int -> Int -> Bool
+upsilon 0 0
+    | 1 < 0 = 1 < 0
+    | 1 > 0 = True
+upsilon x y
+    | x == y = x > y
+    | y != x = y > x
